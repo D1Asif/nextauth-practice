@@ -1,3 +1,4 @@
+## NextAuth Practice Project
 This is my NextAuth practice project. Implemented the following:
 1. OAuth: Google sign in, Github sign in
 2. Sign in with credentials: email and password
